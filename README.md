@@ -29,15 +29,12 @@ I'm [Pablo Rocha](https://pablorocha.me), a web and mobile developer from South 
 &nbsp;&nbsp;&nbsp;<span><img height="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></span>
 &nbsp;&nbsp;&nbsp;<span><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></span>
 
-*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages I have the most code on github.*
+*NOTE: Most used languages does not indicate my skill level, it's a github metric of which languages I have the most code of on github.*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joserocha3&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joserocha3&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 
 <br />
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserocha3&layout=compact&theme=material-palenight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserocha3&layout=compact&theme=material-palenight" />
+
