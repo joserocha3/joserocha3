@@ -21,8 +21,9 @@ I'm [Pablo Rocha](https://pablorocha.me), a web and mobile developer from South 
   <img align="left" alt="Pablo Rocha LinkedIn" width="30px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/criclick.svg" />
 </a>
 
-## Languages and Tools:
+<br/>
 
+### Languages and Tools:
 <span><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
 &nbsp;&nbsp;&nbsp;<span><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></span>
 &nbsp;&nbsp;&nbsp;<span><img height="30px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></span>
