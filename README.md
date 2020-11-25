@@ -13,7 +13,7 @@ I'm [Pablo Rocha](https://pablorocha.me), a web and mobile developer from South 
   <img align="left" alt="Pablo Rocha GitHub" width="20px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/github.png" />
 </a>
 <a href="https://www.facebook.com/jprocha101">
-  <img align="left" alt="Pablo Rocha Facebook" width="21px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/facebook.png" />
+  <img align="left" alt="Pablo Rocha Facebook" width="21px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/facebook.jpg" />
 </a>
 <a href="https://www.linkedin.com/in/jprocha101">
   <img align="left" alt="Pablo Rocha LinkedIn" width="21px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/linkedin.png" />
