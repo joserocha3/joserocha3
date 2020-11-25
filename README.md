@@ -10,17 +10,17 @@ I'm [Pablo Rocha](https://pablorocha.me), a web and mobile developer from South 
 **Where You Will Find Me:**  
 
 <a href="https://github.com/joserocha3">
-  <img align="left" alt="Pablo Rocha GitHub" width="20px" src="https://raw.githubusercontent.com/joserocha3/anuraghazra/main/assets/github.svg" />
+  <img align="left" alt="Pablo Rocha GitHub" width="20px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/github.svg" />
 </a>
 <a href="https://www.facebook.com/jprocha101">
-  <img align="left" alt="Pablo Rocha Facebook" width="21px" src="https://raw.githubusercontent.com/joserocha3/anuraghazra/main/assets/facebook.svg" />
+  <img align="left" alt="Pablo Rocha Facebook" width="21px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/jprocha101">
-  <img align="left" alt="Pablo Rocha LinkedIn" width="21px" src="https://raw.githubusercontent.com/joserocha3/anuraghazra/main/assets/linkedin.svg" />
+  <img align="left" alt="Pablo Rocha LinkedIn" width="21px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/linkedin.svg" />
 </a>
 
 <a href="https://criclick.com/pablorocha">
-  <img align="left" alt="Pablo Rocha LinkedIn" width="21px" src="https://raw.githubusercontent.com/joserocha3/anuraghazra/main/assets/criclick.svg" />
+  <img align="left" alt="Pablo Rocha LinkedIn" width="21px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/criclick.svg" />
 </a>
 
 <br />
