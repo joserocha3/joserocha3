@@ -1,11 +1,11 @@
-### Hello 👋
+## Hello 👋
 
 I'm [Pablo Rocha](https://pablorocha.me), a web and mobile developer from South Texas.
 
 - 🔭 &nbsp;&nbsp;I like to use React, Node.js and Hasura
 - 💬 &nbsp;&nbsp;Ask me about anything [here](https://pablorocha.me/contact)
 
-**Where You Will Find Me:**  
+### Where You Will Find Me:
 
 <a href="https://github.com/joserocha3">
   <img align="left" alt="Pablo Rocha GitHub" width="30px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/github2.png" />
@@ -21,7 +21,7 @@ I'm [Pablo Rocha](https://pablorocha.me), a web and mobile developer from South 
   <img align="left" alt="Pablo Rocha LinkedIn" width="30px" src="https://raw.githubusercontent.com/joserocha3/joserocha3/main/assets/criclick.svg" />
 </a>
 
-**Languages and Tools:**  
+## Languages and Tools:
 
 <span><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></span>
 &nbsp;&nbsp;&nbsp;<span><img height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></span>
